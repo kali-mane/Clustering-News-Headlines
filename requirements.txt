@@ -1,0 +1,7 @@
+beautifulsoup4
+lxml
+pandas
+matplotlib
+scipy
+scikit-learn
+nltk

@@ -1,0 +1,147 @@
+,data,label,x,y
+0,association southeast asian nations,3,0.4647238851580339,-0.20856685245847273
+1,republic day parade live updates asean marching contingents add colour rajpath,1,0.2535312013687377,-0.1950450184728479
+2,republic day list indias chief guests last decade,1,-0.08775427908798185,-0.26457536695564654
+3,national capital turns fortress rday parade,3,-0.6454916475127574,0.26941238981678034
+4,view time come us convert freedom good governance,4,0.5387242618427961,-0.5564673456804706
+5,india national cricket team,2,-0.28861863396105014,0.09291615106725427
+6,cricket world cup,2,-0.5079351167737841,0.326328284109108
+7,u world cup india set semis clash pakistan thumping win,2,-0.5390515944508821,0.14646414565992744
+8,india hammer bangladesh qualify cricket world cup semifinals,2,-0.48289952801457875,0.24088934078799396
+9,india ease past bangladesh enter semifinal,2,-0.5210243554853986,0.028295989675079156
+10,india vs pakistan semifinal u world cup,2,-0.47533369933743086,0.178775679117231
+11,highlights icc u world cup india vs bangladesh super league quarterfinal full cricket score ind win,2,-0.4266200598221455,0.3366889347960048
+12,live score india vs bangladesh world cup super league quarterfinal india inch closer towards victory,2,-0.3814090346558851,0.3038582853240818
+13,karni sena takes roses theatre adopts unusual step,3,-0.03423823022486518,0.7814050023957934
+14,gurgaon school bus attack karni sena cries conspiracy says team bhansali must behind,3,0.19266159385934858,-0.6010906458330411
+15,vk singh talks consensus padmaavat gentle reminder bihar,1,-0.4740922997211632,0.5782330774401815
+16,held mob protests padmaavat,3,-0.2253211920275832,-0.626875070800493
+17,ilaiyaraja honoured padma vibhushan,0,-0.6571014803708761,-0.39542857947975646
+18,india cricket team players india match schedule news statistics records india team photos videos,4,-0.2581118400351879,-0.0029253612541254572
+19,ms dhoni pankaj advani win padma bhushan kidambi srikanth mirabai chanu padma shri,3,-0.5882856978963651,-0.2466365830413532
+20,republic day ilaiyaraaja dhoni among padma awardees,1,-0.04661416654625401,-0.4904071935896954
+21,tricky terrain bjp pollbound karnataka stir mahadayi water intensifies,3,0.3120205157657538,0.7259546590687702
+22,rahul gandhi latest news videos photos times india,4,0.08063527108492072,-0.028842380681639773
+23,karnataka bandh live amit shah takes aim siddaramaiah state suffers shut prokannada outfits,3,-0.36780531611927614,0.5724305811376067
+24,amit shah says lok sabha elections held today bjp get seats,3,0.5821124839913927,-0.15648522382111751
+25,republic day kerala rss chief mohan bhagwat defies govt order hoists flag private school pallakad district,1,0.02572894788564063,-0.642668070380385
+26,despite kerala governments order disallowing rss chief mohan bhagwat hoists flag school,0,0.03360025476266162,-0.7294225731693229
+27,mohan bhagwat defies orders hoists national flag kerala school,3,0.01768627174097828,-0.6794219367721239
+28,mohan bhagwat hoists tricolour leftruled kerala time sanghrun school,4,-0.0045486921060098025,-0.7313419360688949
+29,bsf refuses exchange sweets pakistan rangers ceasefire violations,2,-0.571442740093359,-0.505608994593545
+30,bsfs stern message rangers provocative acts unacceptable,2,-0.42641167005066355,-0.6168966711028481
+31,rday sweets pakistani rangers bsf forgoes custom killed border firing,6,-0.5007908717676921,-0.5247858848600122
+32,provocative acts tolerated india tells pakistan,2,-0.4422712790621485,-0.277108183983612
+33,mob rained stones chaos girl gurgaon school bus recalls horror,3,0.14797355289443181,-0.7603628960854792
+34,padmaavat row arrested attack school bus gurugram,0,0.22145148464246586,-0.7272851682676039
+35,day gurgaon bus horror many schools near delhi shut today,1,0.24982640049294838,-0.6696063656030041
+36,padmaavat row six gurgaon schools stay shut top developments,3,0.16815706805552316,-0.7016570095641291
+37,congress smarts rahul gets throw seat rday gala,3,0.6631018276072784,-0.19996885604420378
+38,must defend constitution rahul,4,0.5896598423097669,0.49646306602469886
+39,delhi confidential sixth row seat,3,-0.7598340070638064,0.027126890156678893
+40,dead injured fire south korea hospital,6,-0.2878164600227099,0.43946756256805997
+41,onsite accounts miryang hospital fire,0,0.43346050527759694,-0.6376307905152733
+42,blaze south korean hospital kills injured,6,0.16975065123520944,0.09195346434251672
+43,hospital fire kills least people south korea,6,0.10874567911887005,0.2248115703165609
+44,donald trump proposes us citizenship plan mn undocumented immigrants,3,0.14571924777692782,0.6161561151393822
+45,democrats pan trumps immigration framework,3,0.23322989702033153,0.6459230325702668
+46,donald trump davos us president threatens stop us aid palestine unless sit negotiate peace,0,-0.17759451642709415,0.7165098645918403
+47,emerging economies concerned trumps america first,3,0.4529566959324266,0.6165622060373531
+48,autographs fruit threats us president trump strides davos,0,0.4943246304677583,0.5577085071143927
+49,trump davos chance say america first really means,0,0.42952976593022246,0.5131856036885266
+50,trump wins global elites davos took trillion tax cut,5,0.3138442845895451,0.5283197793077775
+51,trumps davos speech concern investors,3,0.3996024757675792,0.6037579776130704
+52,make peace israel well withdraw aid trump warns palestinians,0,-0.24067280709726988,0.7013868298342149
+53,trump threatens stop aid palestinians,0,-0.1583857511097508,0.7479764911360651
+54,jerusalem israels capital says netanyahu wef,3,0.7246243430457564,-0.1523212851273737
+55,dont plan b mideast peace stage king,3,-0.5987661411477305,-0.4267280817639797
+56,trump says palestinians must return talks receive aid,0,-0.10115737464254909,0.7135020216676213
+57,gst collections reverse trend rise rs crore december,5,0.2596094866171369,-0.34118522444051286
+58,ministry finance twitter total revenue collections gst month december received,5,0.026221799085917975,-0.38244463807467355
+59,gst mop dec rises crore trend reverses,5,0.31500394848385654,-0.3592061187313697
+60,gst collections post smart recovery december revenue rs crore rs crore nov low,5,0.2144035999347979,-0.4071128074474463
+61,budget reduce stamp duty cost cut gst rate benefit homebuyers,5,0.5655385865678098,0.05638475291586348
+62,rate cut dip two months gst collections december,5,0.27993832850858325,-0.10949715711354141
+63,gst relief lowcost homes sttime buyers,5,-0.6690082013145306,-0.1370702932735341
+64,small home buyers welcome decision reduce gst homes percent,5,-0.7123918215217242,-0.11225933149394608
+65,affordable housing gets boost cut gst rate,5,0.4931725012425384,0.009755581729345097
+66,budget hope arun jaitley fulfils promise reduce corporate tax rate says harsh goenka,5,0.6032490897052797,0.1493534810926533
+67,budget sensex moved budget budget three years narendra modi government,5,0.49056831336400447,-0.40869609901031195
+68,modis davos banter leaves india inc secondguessing budget hurt,5,-0.031582129727012284,0.3509665018841831
+69,budget tightrope walk arun jaitley,5,0.6843082580637158,0.3357937089777017
+70,sunny time maruti results expected lines,4,0.6315526853069727,0.26853043868605153
+71,q result margin expansion key maruti suzuki sustain premium valuations,3,0.6419616911911035,-0.4304630629642948
+72,q earnings marutis profit rises per cent board cuts royalty payment parent,5,0.5503046844148461,0.29521509527717965
+73,jiophone indias topselling feature phone q counterpoint,2,0.048681455368600704,-0.27221601862974576
+74,reliance jiophone users get free voice unlimited data rs,3,0.5699619684813461,-0.47914299775752883
+75,jio launches lowest rental rs feature phone users,3,0.44999943295250777,-0.35082832096924027
+76,xiaomi redmi note said pass c certification rumoured launch late next month,0,0.42218569246753845,-0.10896873636845075
+77,snapdragon snapdragon pictures news articles videos ndtv gadgets,4,0.36155411526142567,-0.6729020404362748
+78,xiaomi redmi available rs big bazar republic day sale conditions apply,1,0.2203542749419948,-0.5062329167652628
+79,xiaomi redmi gb ram gb storage variant launched china priced around cny,3,-0.40805640124588544,0.6360556062577349
+80,xiaomi redmi note may launch india next month company promises exciting february,2,-0.3575540331457591,-0.10047992922027194
+81,new yamaha motorcycles scooters auto expo r v aerox,3,0.7791021049494966,-0.10534565082379364
+82,xiaomi mi x images leaked showing display vertical dual rear camera setup,0,-0.7288968459557117,0.09495000818676487
+83,xiaomi mi x techlector,3,-0.277793198147088,-0.5301832391414667
+84,hyderabad activists file complaint film gst ram gopal varma trouble,5,0.3183161323510389,0.6623068594476966
+85,ram gopal varma booked obscenity day release god sex truth,1,0.13890734872915167,0.7102776750790867
+86,forget title film,3,0.07001103261552866,0.7756484941883232
+87,shah rukh khan goes avoid boxoffice clash zero salmans dabangg,0,-0.6885986305331462,-0.32719111206798723
+88,padmaavat sanjay leela bhansali wanted shah rukh khan play roles given ranveer singh shahid kapoor,1,-0.5089027288053605,0.4767863636141667
+89,year raees shah rukh khan mahira khan starrer raees clocks year,3,-0.5150199428303598,-0.5856270033805843
+90,republic day special ranveer singh emotions biggest strength,1,-0.1265166961068442,-0.4992871382153889
+91,trending mahesh babus first look bharath ane nenu,3,0.7417771223040733,0.1493402298302152
+92,bharath ane nenu audio teaser mahesh babu takes oath cm andhra pradesh,3,0.7488063496561078,0.20374204004617905
+93,bharath ane nenu first look mahesh babu plays role andhra pradesh cm political drama,3,0.7316559946609759,0.22745768821729173
+94,south africa national cricket team,6,-0.19259511077481375,0.15428012730924162
+95,india vs south africa jasprit bumrahs fifer vindicates test selection promise greater things come,6,-0.11190621540575922,0.02729807940147031
+96,sa india battle supremacy final test,2,-0.3280069350603333,-0.17743147019846492
+97,amla survives wanderers minefield nifty engineering,3,-0.36474224151450224,-0.6820252685446879
+98,bumrah bhuvi return compliment,3,-0.3363592370019141,0.6938374761107517
+99,virat kohlis indian cricket team caught time warp south africa loss opinion,4,-0.05417817880378583,0.2245245592541262
+100,live cricket score india vs south africa rd test day johannesburg india look build healthy lead,2,-0.22552580226239513,0.24932196380641408
+101,jasprit bumrah gets maiden indias bowlers stand south africa,6,-0.07023065622093884,0.1160638877908062
+102,ipl player auction battlehardened plus warriors demand marquee event,0,-0.7019464346270344,0.3414597269448941
+103,harbhajan singh eyes fresh start ipl auctions,1,-0.7103208956529932,-0.23857159220970947
+104,ipl franchises likely trim squad size,0,-0.6595636370602739,0.41627564592160377
+105,indian premier league franchises ready splash cash mega auction,0,-0.6116398677927433,0.4624949624251135
+106,australia vs england live score th odi england fighting hard reach moeen ali departs,3,-0.10663330572720163,0.5759416482712257
+107,australia vs england th odi adelaide live hazlewood cummins rip top order,3,-0.0636555060487297,0.5253711292140002
+108,live cricket score australia vs england th odi adelaide england trouble morgan departure,3,-0.15709949780392446,0.5217645453289053
+109,live cricket score australia vs england th odi adelaide,3,-0.1719748606863828,0.49976473114477776
+110,england show benefits splitting captaincy odi side target lead,5,0.005254493243698709,0.6703735458170539
+111,ariane rocket delivers satellites nasa gold orbit despite launch anomaly,3,-0.40698179734550116,-0.501456920159097
+112,satellites orbit despite lost contact ariane rocket,0,-0.11587536224323776,-0.758322911683543
+113,spacewatch moon landing contest closes launches horizon,3,-0.5254249498584723,-0.3551030856621468
+114,moon still future beyond first moon mission teamindus,3,0.7081141824873317,-0.29216056394997697
+115,google xprize fix race moon,0,0.6947189382621354,-0.3467651874322044
+116,trump administration end iss funding return lunar exploration,3,0.2840670569454313,0.3034072990048231
+117,text th congress national aeronautics space administration transition authorization,3,0.3206246540069986,0.34771444054115763
+118,white house gets pushback plan phase space station funding,3,0.4015236028959095,0.11027057470619124
+119,trump administration plans cut funding international space station,3,0.40654584188449894,0.26278490708756624
+120,trump administration wants end nasa funding international space station,3,0.37426012369231637,0.23635310234166515
+121,gravity assist podcast saturn linda spilker part,3,-0.2914427359080833,-0.721063839224031
+122,saturn moon enceladus potentially habitable nasa scientist,3,0.6123181086280691,-0.338109802790086
+123,certain foods bolster brain health stroke,3,0.23651548001240147,0.4707732400730552
+124,mind diet slows cognitive decline stroke survivors,3,-0.5019542225579899,-0.11396632638939273
+125,mind diet may slow cognitive decline stroke survivors,3,0.09362642888908841,0.4226074544275132
+126,cornell health prepares moderately severe flu season nation grapples flu epidemic,3,-0.6796450618537075,0.022694964990368348
+127,acute myocardial infarction laboratoryconfirmed influenza infection nejm new england journal medicine,3,-0.33852116953188416,-0.45846469914566207
+128,ready flu pandemic,3,-0.777449077831934,-0.02108554275226474
+129,know deadly flu season,0,-0.7269686697756955,0.15857180466738208
+130,watch scientists clone monkeys using technique created dolly sheep,0,0.6912989525978668,-0.058117370592898114
+131,producing primate embryonic stem cells somatic cell nuclear transfer nature,0,-0.19704339459982154,-0.6928968753827128
+132,humans next chinese scientist break key barrier cloning monkeys,0,0.4523710091111282,-0.5608438644529519
+133,first primate clones created via scnt expected benefit disease research without reviving debate,5,0.7387423343160242,0.04761065501432353
+134,scientists successfully clone monkeys humans next ap news,4,0.44743225785995877,-0.518380895121839
+135,meet zhong zhong hua hua first monkey clones produced method made dolly,3,0.5601350599706467,0.4013102225686301
+136,letters cloning monkeys research alarming,3,0.7552815844951988,-0.012735697339623504
+137,doctors mumbai hospital extract led bulb infants lungs,0,-0.743533682420542,0.23376503227684864
+138,th republic day live updates daring debut bsfs womans motorcycle team wins hearts,1,0.03027915755997411,-0.12954099055937346
+139,padma shri scientist toymaker arvind gupta times india,4,-0.19706626204364502,-0.24346309419203072
+140,incedo sets cybersecurity centre puneto hire people,3,0.6386027014911039,0.43788436532334135
+141,ats cops trying trace pune girl suspected part isis,3,0.1950656424765026,0.7601000878913727
+142,bank recapitalisation five major implications reform package psbs,0,-0.5461371211989319,0.5707988350338455
+143,tata trusts become enabler merely funder says ratan tata,3,-0.7562724505565753,-0.19667960060247985
+144,india promote energy saving address climate change matter others piyush goyal,2,-0.29594631700465335,-0.3417473742792415
+145,sensex gains steam crossing nifty hits five things know,3,-0.1829448785354622,-0.7490139076632563
