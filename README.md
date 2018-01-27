@@ -30,7 +30,7 @@ hierarchical.py
 	Visualization of clusters using matplotlib
 
 
-The different processes and algorithms used are explained in (doc/Clustering News Headlines.docx)
+The different processes and algorithms used are explained in [Clustering News Headlines](https://github.com/maneeshavinayak/Clustering-News-Headlines/blob/master/doc/Clustering%20News%20Headlines.docx)
 
 Project Requirements
 ----------------------------
