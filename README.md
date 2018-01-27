@@ -29,12 +29,13 @@ hierarchical.py
 	Hierarchical clustering using Ward Method
 	Visualization of clusters using matplotlib
 
-  
+
+The different processes and algorithms used are explained in (doc/Clustering News Headlines.docx)
 
 Project Requirements
 ----------------------------
 
-python3
+python 3
 pip install requirements.txt
 
 Run below from python command line 
