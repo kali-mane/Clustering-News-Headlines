@@ -4,11 +4,9 @@ The project groups scrapped News headlines using NLTK, KMeans and Ward Hierarchi
 Table of Contents 
 ---------------------------
 scrapping.py
-
 	Scrap/Extract data using BeautifulSoup
 	
 preprocessing.py
-
 	Clean data to remove punctuation, numbers, white spaces and convert the text to lower case
 	
 k_means.py
