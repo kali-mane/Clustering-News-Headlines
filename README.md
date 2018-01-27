@@ -3,13 +3,16 @@ The project groups scrapped News headlines using NLTK, KMeans and Ward Hierarchi
 
 Table of Contents 
 ---------------------------
-scrapping.py 
+scrapping.py
+
 	Scrap/Extract data using BeautifulSoup
 	
 preprocessing.py
+
 	Clean data to remove punctuation, numbers, white spaces and convert the text to lower case
 	
 k_means.py
+
 	Tokenize and Stem Data using NLTK
 	Convert words to Vector Space using TFIDF matrix
 	Calculate Cosine Similarity and generate the distance matrix
@@ -18,6 +21,7 @@ k_means.py
 	Visualization of clusters using matplotlib
 	
 hierarchical.py
+
 	Tokenize and Stem Data using NLTK
 	Convert words to Vector Space using TFIDF matrix
 	Calculate Cosine Similarity and generate the distance matrix
@@ -31,5 +35,6 @@ Project Requirements
 pip install requirements.txt
 
 Run below from python command line 
+
 	import nltk
 	nltk.download('all')
